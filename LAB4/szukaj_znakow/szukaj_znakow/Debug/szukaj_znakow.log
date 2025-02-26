@@ -1,0 +1,6 @@
+﻿  Assembling szukaj.asm...
+  main.c
+C:\Users\kotel\source\repos\assembler\LAB4\szukaj_znakow\szukaj_znakow\main.c(12,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 3 has type 'wchar_t *'
+C:\Users\kotel\source\repos\assembler\LAB4\szukaj_znakow\szukaj_znakow\main.c(8,16): warning C4047: 'initializing': 'unsigned int *' differs in levels of indirection from 'unsigned short'
+C:\Users\kotel\source\repos\assembler\LAB4\szukaj_znakow\szukaj_znakow\main.c(9,16): warning C4047: 'initializing': 'unsigned int *' differs in levels of indirection from 'unsigned int **'
+  szukaj_znakow.vcxproj -> C:\Users\kotel\source\repos\assembler\LAB4\szukaj_znakow\Debug\szukaj_znakow.exe

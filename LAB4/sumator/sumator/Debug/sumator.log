@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\kotel\source\repos\assembler\LAB4\sumator\sumator\main.c(19,11): warning C4013: 'getch' undefined; assuming extern returning int
+C:\Users\kotel\source\repos\assembler\LAB4\sumator\sumator\main.c(22,15): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\kotel\source\repos\assembler\LAB4\sumator\sumator\main.c(41,17): warning C4047: 'function': 'char' differs in levels of indirection from 'char [1][1]'
+C:\Users\kotel\source\repos\assembler\LAB4\sumator\sumator\main.c(41,17): warning C4024: 'suma': different types for formal and actual parameter 1
+C:\Users\kotel\source\repos\assembler\LAB4\sumator\sumator\main.c(41,10): warning C4047: '=': 'char' differs in levels of indirection from 'char *'
+C:\Users\kotel\source\repos\assembler\LAB4\sumator\sumator\main.c(44,17): warning C4047: 'function': 'char' differs in levels of indirection from 'char [30][4]'
+C:\Users\kotel\source\repos\assembler\LAB4\sumator\sumator\main.c(44,17): warning C4024: 'suma': different types for formal and actual parameter 1
+C:\Users\kotel\source\repos\assembler\LAB4\sumator\sumator\main.c(44,10): warning C4047: '=': 'char' differs in levels of indirection from 'char *'
+  sumator.vcxproj -> C:\Users\kotel\source\repos\assembler\LAB4\sumator\Debug\sumator.exe
